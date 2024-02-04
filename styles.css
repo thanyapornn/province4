@@ -1,0 +1,64 @@
+
+/*body{
+    background-color: rgb(255, 248, 148);
+   }*/
+   /* กำหนดไข่ปลา */
+   hr{
+   border-style:inset;
+   border-color: rgb(0, 0, 0);
+   border-width: 2px;
+   width:80%;
+   }
+   
+
+   h1{
+    color:black
+   }
+
+   h2{
+    color:cornflowerblue
+   }
+   p{
+    color: rgb(0, 0, 0);
+   }
+   p1{
+    color: rgb(255, 120, 120);
+   }
+   p2{
+    color: rgb(227, 199, 44);
+   }
+   p3{
+    color: rgb(127, 210, 203);
+   }
+   p4{
+    color: rgb(48, 119, 252);
+   }
+   p5{
+    color: rgb(135, 40, 219);
+   }
+   p6{
+    color: rgb(69, 255, 2);
+   }
+   img{
+     background-color: rgb(148, 184, 228);
+   }
+
+   /*2 class selelctor */
+   .sunny{
+     background-color: rgb(136, 247, 199);
+   }
+   .circular{
+     border-radius: 100%;
+   }
+   .marty{
+    background-color: rgb(136, 247, 199);
+  }
+  .circular{
+    border-radius: 100%;
+  }
+  .ธรรม{
+    background-color: rgb(136, 247, 199);
+  }
+  .circular{
+    border-radius: 100%;
+  }
